@@ -1360,9 +1360,9 @@ const gs = { class: "flex justify-center relative w-full" },
   ),
   Ln = [Sn],
   Tn = B(
-    '<div class="fixed w-full flex justify-end p-5" style="left:0px;bottom:0px;"><a href="https://x.com/" target="_blank" class="h-12 w-12 md:h-14 md:w-14 card rounded-xl mx-2 hover:scale-110 transition-all duration-300 ease-int-out"><img class="h-full cursor-pointer p-2" src="' +
+    '<div class="fixed w-full flex justify-end p-5" style="left:0px;bottom:0px;"><a href="https://x.com/CompowerAI" target="_blank" class="h-12 w-12 md:h-14 md:w-14 card rounded-xl mx-2 hover:scale-110 transition-all duration-300 ease-int-out"><img class="h-full cursor-pointer p-2" src="' +
       Le +
-      '"></a><a href="https://t.me/" target="_blank" class="h-12 w-12 md:h-14 md:w-14 card rounded-xl mx-2 hover:scale-110 transition-all duration-300 ease-int-out" style="padding:3px;"><img class="h-full cursor-pointer p-2" src="' +
+      '"></a><a href="https://t.me/CompowerAI" target="_blank" class="h-12 w-12 md:h-14 md:w-14 card rounded-xl mx-2 hover:scale-110 transition-all duration-300 ease-int-out" style="padding:3px;"><img class="h-full cursor-pointer p-2" src="' +
       Te +
       '"></a></div>',
     1
